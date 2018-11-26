@@ -20,6 +20,7 @@
         </form>
     </div>
 </div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" crossorigin="anonymous"></script>
 <script type="text/javascript">
 	var googleUser = {};
 	var startApp = function() {
